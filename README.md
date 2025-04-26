@@ -28,7 +28,7 @@ A simple web application that helps you count and visualize tokens for different
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mahesh0426/TokenFinder_App
 cd token-finder
 ```
 
